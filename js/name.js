@@ -1,9 +1,11 @@
-$(document).ready(function(){
-  $('#username').submit(function(event){
-    event.preventDefault();
-    var name = $('#name').val();
-  
-    $('#username').hide();
-    $('#solution').prepend('<p>Thank you, ' + name + ' has been added to our list!</p>');
-  });
-});
+var apiKey = require('./../.env').apiKey;
+
+function Weather(){
+}
+
+Weather.prototype.getWeather = function() {
+  console.log("Hi! I'm a weather object.");
+}
+
+
+exports.weatherModule = Weather;

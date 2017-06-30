@@ -1,0 +1,17 @@
+{
+  "name": "ip1",
+  "description": "Core JS Project One",
+  "main": "index.js",
+  "authors": [
+    "Alexander <mburukungu@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AlexanderMK/IP1---Core",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
