@@ -1,0 +1,19 @@
+{
+  "name": "ip1",
+  "version": "1.0.0",
+  "description": "Core JS Project One",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderMK/IP1---Core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderMK/IP1---Core/issues"
+  },
+  "homepage": "https://github.com/AlexanderMK/IP1---Core#readme"
+}
